@@ -1,2 +1,1 @@
-# Blockchain-and-Cryptocurrencies
-CIS 600
+# Blockchain-and-Cryptocurrencies CIS 600
